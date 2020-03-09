@@ -13,6 +13,8 @@ In finance, project management, energy, manufacturing, research, risk analysis a
 
 # Monte Carlo Simulation Example
 
+You can check my blog post and source code on git hub. Links:
+
 Medium
 https://medium.com/@aabdygaziev/monte-carlo-simulation-on-python-63b19393a271
 
